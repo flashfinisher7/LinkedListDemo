@@ -1,0 +1,16 @@
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\net5.0\DataStructureDemo.exe
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\net5.0\DataStructureDemo.deps.json
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\net5.0\DataStructureDemo.runtimeconfig.json
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\net5.0\DataStructureDemo.runtimeconfig.dev.json
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\net5.0\DataStructureDemo.dll
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\net5.0\ref\DataStructureDemo.dll
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\bin\Debug\net5.0\DataStructureDemo.pdb
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\DataStructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\DataStructureDemo.AssemblyInfoInputs.cache
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\DataStructureDemo.AssemblyInfo.cs
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\DataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\DataStructureDemo.dll
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\ref\DataStructureDemo.dll
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\DataStructureDemo.pdb
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\DataStructureDemo.genruntimeconfig.cache
+C:\Users\mvsan\source\repos\DataStructureDemo\DataStructureDemo\obj\Debug\net5.0\DataStructureDemo.csproj.AssemblyReference.cache
