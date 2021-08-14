@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mvsan\\source\\repos\\DataStructureDemo\\DataStructureDemo\\DataStructureDemo.csproj",
+      "projectUniqueName": "C:\\Users\\mvsan\\fellowship_program\\DataStructure\\DataStructureDemo\\DataStructureDemo\\DataStructureDemo.csproj",
       "projectName": "DataStructureDemo",
-      "projectPath": "C:\\Users\\mvsan\\source\\repos\\DataStructureDemo\\DataStructureDemo\\DataStructureDemo.csproj",
+      "projectPath": "C:\\Users\\mvsan\\fellowship_program\\DataStructure\\DataStructureDemo\\DataStructureDemo\\DataStructureDemo.csproj",
       "packagesPath": "C:\\Users\\mvsan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mvsan\\source\\repos\\DataStructureDemo\\DataStructureDemo\\obj\\",
+      "outputPath": "C:\\Users\\mvsan\\fellowship_program\\DataStructure\\DataStructureDemo\\DataStructureDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mvsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
